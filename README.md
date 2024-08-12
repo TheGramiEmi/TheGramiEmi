@@ -1,5 +1,5 @@
 <!-- Header Links -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Github&logoColor=green)](https://thegramiemi.github.io/EmiGramajoPortfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Github&logoColor=green)](https://thegramiemi.github.io/EmiGramajoPortfolio)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TheGramiEmi/EmiGramajoPortfolio.github.io)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilianogramajo/)
 [![Upwork](https://img.shields.io/badge/-Upwork-000?style=flat&logo=Upwork&logoColor=green)](https://www.upwork.com/freelancers/~013a9adde1b51b7ee5?viewMode=1)
@@ -64,8 +64,8 @@
 			<img alt="Clickup" src="https://img.shields.io/badge/-ClickUp-000?style=flat&logo=clickup&logoColor=red">
 			<img alt="Trello" src="https://img.shields.io/badge/Trello-000?style=flat&logo=trello&logoColor=white">
 			<img alt="Asana" src="https://img.shields.io/badge/-Asana-000?style=flat&logo=asana&logoColor=red">
-      <img alt="Azure Devops" src="https://img.shields.io/badge/Azure%20Devops-05122A?style=flat&logo=Medium">
-      <img alt="Azure Devops" src="https://img.shields.io/badge/Azure%20Devops-05122A?style=flat&logo=Medium">
+      		<img alt="Azure Devops" src="https://img.shields.io/badge/Azure%20Devops-05122A?style=flat&logo=Medium">
+			<img alt="Odoo" src="https://img.shields.io/badge/-Odoo-000?style=flat&logo=Odoo&logoColor=white">
 		</kbd>
 	</p>
     	<p>
@@ -80,6 +80,15 @@
 			<img alt="Zoom" src="https://img.shields.io/badge/zoom-000?style=flat&logo=zoom&logoColor=white">
       <img alt="Discord" src="https://img.shields.io/badge/Discord-000?style=flat&logo=discord&logoColor=blue">
 		</kbd>
+	</p>
+	    	<p>
+		<kbd>
+			<kbd>Design Tools</kbd>
+			<br>
+			<br>
+			<img alt="Canva" src="https://img.shields.io/badge/-Canva-000?style=flat&logo=canva&logoColor=sky-blue">
+			<img alt=Figma" src="https://img.shields.io/badge/-Figma-000?style=flat&logo=figma&logoColor=red">
+			<img alt="Draw.io" src="https://img.shields.io/badge/-draw.io-000?style=flat&logo=draw.io&logoColor=red">
 	</p>
     </p>
 </div>
