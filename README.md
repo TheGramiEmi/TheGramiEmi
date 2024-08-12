@@ -98,19 +98,18 @@
 </br>
 <h2>Licenses & certifications</h2>
 
-[**🤖 Digital Intelligence Series**](https://www.canva.com/design/DAGNexIFWPo/mQT6z62qU368qZwBOaVynA/view?utm_content=DAGNexIFWPo&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
-<br>[**👔 Project Management Institute**](https://www.pmi.org/) ✅ Completed
-
-[**🏅 PMP**](https://www.canva.com/design/DAGNe0rao7E/F_IjRkVdziHyzDyd4KmjIA/view?utm_content=DAGNe0rao7E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-<br>[**👔 Project Management Institute**](https://www.pmi.org/) ✅ Completed
+✅ [**🤖 Digital Intelligence Series**](https://www.canva.com/design/DAGNexIFWPo/mQT6z62qU368qZwBOaVynA/view?utm_content=DAGNexIFWPo&utm_campaign=designshare&utm_medium=link&utm_source=editor):   [**👔 Project Management Institute**](https://www.pmi.org/) 
 
 
-[**🚀 Data Registered Scrum Master & Registered Product Owner**](https://www.canva.com/design/DAGNewQpBnY/PsBJolAXoHN29I15pKZTqA/view?utm_content=DAGNewQpBnY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-<br>[**👊 Scrum Inc**](https://www.scruminc.com/) ✅ Completed
+✅ [**🏅 PMP**](https://www.canva.com/design/DAGNe0rao7E/F_IjRkVdziHyzDyd4KmjIA/view?utm_content=DAGNe0rao7E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+: [**👔 Project Management Institute**](https://www.pmi.org/)
 
 
-[**💼 Bachelor's Degree in Computer Science**](https://www.palermo.edu/)
-<br>[**🏫 University of Palermo**](https://www.palermo.edu/) ✅ Completed
+✅ [**🚀 Data Registered Scrum Master & Registered Product Owner**](https://www.canva.com/design/DAGNewQpBnY/PsBJolAXoHN29I15pKZTqA/view?utm_content=DAGNewQpBnY&utm_campaign=designshare&utm_medium=link&utm_source=editor) : [**👊 Scrum Inc**](https://www.scruminc.com/)
+
+
+✅ [**💼 Bachelor's Degree in Computer Science**](https://www.palermo.edu/)
+[**🏫 University of Palermo**](https://www.palermo.edu/) 
 
 <br>
 
